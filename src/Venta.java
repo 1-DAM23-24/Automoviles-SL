@@ -23,7 +23,7 @@ public class Venta {
         return fechaVenta;
     }
 
-    public void setFechaVenta(Date fechaVenta) {
+    public void setFechaVenta(int fechaVenta) {
         this.fechaVenta = fechaVenta;
     }
 
